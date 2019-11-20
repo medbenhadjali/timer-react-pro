@@ -1,0 +1,34 @@
+.name{
+    display: flex;
+    font-size: 24px;
+    color:grey;
+    justify-content: center;
+}
+.value{
+    font-size: 100px;
+}
+.hours{
+    margin-right: 120px;
+}
+.minute{
+margin-right: 80px;
+}
+.titre{
+    font-size: 60px;
+}
+.start{
+    color:skyblue;
+    width: 100px;
+    height: 30px;
+    border: 2px solid skyblue;
+    border-radius: 4px;
+    background: white ;
+}
+.reset{
+    color:black;
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 4px;
+    background: white ; 
+}
